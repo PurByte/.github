@@ -19,7 +19,7 @@ PurByte hopes to become a leading name in the industries it enters in, known for
 ---
 
 ### 🟪**Who We Are**  
-PurByte is an emerging provider, committed to delivering excellence and innovation. Our team of experts brings together years of experience in the hosting industry to ensure that you receive the best service possible. We are driven by our aspiration to become a leading name in the hosting industry through dedicated service and cutting-edge technology.  
+PurByte is an emerging organization, committed to delivering excellence and innovation. Our team of experts brings together years of experience around many industry, we're driven by our inspiration.
 
 ---
 
