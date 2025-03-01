@@ -1,4 +1,4 @@
-# PurByte  
+# PurByte
 
 We are excited to have you join our __community__. Whether you're launching your __first project__, looking to expand your __online presence__, or in need of __reliable hosting solutions__, and more, you are in the right place. Our services are designed to meet your unique __needs__, whether big or small, and provide you with the tools and support you need to bring your __ideas__ to life.
 
@@ -51,10 +51,8 @@ At PurByte, we are dedicated to growing and evolving with our clients. We contin
 ## 📫 Get in Touch  
 
 - ### Website: **[purbyte.com](https://purbyte.com)**
-- ### Discord: [Join Us on Discord](https://discord.gg/PvyRJzN5Pr)
+- ### Discord: [![Join us on Discord](https://img.shields.io/discord/1076152760719900732?style=for-the-badge&logo=Discord&label=Discord&color=A020F0)](https://discord.gg/PvyRJzN5Pr)
 
 ---
 
 ### We're here to empower your online journey.
-
-![Join us on Discord](https://img.shields.io/discord/1076152760719900732?style=for-the-badge&logo=Discord&label=Discord&color=A020F0)
