@@ -47,7 +47,7 @@ At PurByte, we are dedicated to growing and evolving with our clients. We contin
 ------
 
 ### 💬**Community**
-You could paticipate on our community by joining our discord!
+You could participate in our community by joining our discord!
 
 ---
 
