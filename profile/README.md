@@ -11,7 +11,8 @@ Explore our full range of hosting services at **[purbyte.com](https://purbyte.co
 
 ## 💬 Community  
 Join our Discord server to connect with other PurByte users, get support, and stay updated on the latest news and features.  
-[![Join Us on Discord](https://img.shields.io/discord/PvyRJzN5Pr?logo=discord&style=for-the-badge](https://img.shields.io/discord/1076152760719900732?style=for-the-badge&logo=Discord))](https://discord.gg/ZEW4WUAM7w)  
+[![Join us on Discord!](https://img.shields.io/discord/1076152760719900732?style=for-the-badge&logo=Discord)]
+
 
 ---
 
