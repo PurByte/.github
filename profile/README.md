@@ -51,7 +51,7 @@ At PurByte, we are dedicated to growing and evolving with our clients. We contin
 ## 📫 Get in Touch  
 
 - Website: **[purbyte.com](https://purbyte.com)**
-- Discord: **[Join Us on Discord](https://discord.gg/PvyRJzN5Pr)**
+- ## Discord: [Join Us on Discord](https://discord.gg/PvyRJzN5Pr)
   ![Join us on Discord](https://img.shields.io/discord/1076152760719900732?style=for-the-badge&logo=Discord&label=Discord&color=A020F0)
 
 ---
