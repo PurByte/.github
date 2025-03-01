@@ -9,7 +9,7 @@ Your trust in us is important, and we are __dedicated__ to making your journey w
 ---
 
 ## 🌐 Website  
-Explore our full range of hosting services at **[purbyte.com](https://purbyte.com)**.  
+Explore services at **[purbyte.com](https://purbyte.com)**.  
 
 ---
 
@@ -48,13 +48,10 @@ At PurByte, we are dedicated to growing and evolving with our clients. We contin
 
 ---
 
-## 📫 Get in Touch  
-
-- ### Website: **[purbyte.com](https://purbyte.com)**
-- ### Discord: 
+### **Community**
+You could paticipate on our community by joining our discord!
 [![Join us on Discord](https://img.shields.io/discord/1076152760719900732?style=for-the-badge&logo=Discord&label=Join%20us%20on%20Discord&color=A020F0
 )](https://discord.gg/PvyRJzN5Pr)
 
 ---
-
 ### We're here to empower your online journey.
