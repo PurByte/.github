@@ -42,11 +42,10 @@ We offer a range of hosting services designed to meet the diverse needs of our c
 
 ---
 
-### **Why Choose PurByte?**  
-- **Performance**: Our servers are optimized for speed and reliability, ensuring your website and applications load quickly and run smoothly.  
-- **Security**: We prioritize your security with advanced protection measures, including firewalls, DDoS protection, and regular backups.  
+### **Why Choose PurByte?**
+- **Performance**: Our servers are optimized for speed and reliability, ensuring your website and applications load quickly and run smoothly.
+- **Security**: We prioritize your security with advanced protection measures, DDOS Protection & More.
 - **Support**: Our dedicated support team is available 24/7 to assist you with any issues or questions. We are committed to providing prompt and effective support.  
-- **Scalability**: As your business or community grows, our hosting solutions can easily scale to meet your increasing demands without compromising performance.  
 
 ---
 
