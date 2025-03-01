@@ -52,6 +52,6 @@ You could paticipate on our community by joining our discord!
 ---
 
 [![Join us on Discord](https://img.shields.io/discord/1076152760719900732?style=for-the-badge&logo=Discord&label=Join%20us%20on%20Discord&color=A020F0
-)](https://discord.gg/PvyRJzN5Pr)
+)](https://discord.gg/ZEW4WUAM7w)
 
 ### We're here to empower your online journey.
