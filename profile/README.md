@@ -13,13 +13,6 @@ Explore our full range of hosting services at **[purbyte.com](https://purbyte.co
 
 ---
 
-## 💬 Community  
-Join our Discord server to connect with other PurByte users, get support, and stay updated on the latest news and features.  
-![Join us on Discord](https://img.shields.io/discord/1076152760719900732?style=for-the-badge&logo=Discord&label=Discord&color=A020F0)
-
-
----
-
 ## **Our Mission**  
 At PurByte, our mission is to provide reliable, high-performance hosting solutions that help you achieve your online goals.  
 
@@ -58,7 +51,7 @@ At PurByte, we are dedicated to growing and evolving with our clients. We contin
 ## 📫 Get in Touch  
 
 - Website: **[purbyte.com](https://purbyte.com)**  
-- Discord: **[Join Us on Discord](https://discord.gg/PvyRJzN5Pr)** | [Join us on Discord](https://img.shields.io/discord/1076152760719900732?style=for-the-badge&logo=Discord&label=Discord&color=A020F0) 
+- Discord: **[Join Us on Discord](https://discord.gg/PvyRJzN5Pr)** | ![Join us on Discord](https://img.shields.io/discord/1076152760719900732?style=for-the-badge&logo=Discord&label=Discord&color=A020F0) 
 
 ---
 
