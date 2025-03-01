@@ -9,12 +9,12 @@ Your trust in us is important, and we are __dedicated__ to making your journey w
 ---
 
 ## 🌐 Website  
-Explore services at **[purbyte.com](https://purbyte.com)**.  
+Explore our services at **[purbyte.com](https://purbyte.com)**.  
 
 ---
 
 ## **Our Mission**  
-At PurByte, our mission is to provide reliable, high-performance hosting solutions that help you achieve your online goals.  
+PurByte hopes to become a leading name in the industries it enters in, known for our innovation, security, and commitment to customer satisfaction. Our current goal is to become a leading provider in the hosting industry, and we are committed to working tirelessly to achieve that aspiration.
 
 ---
 
@@ -24,14 +24,14 @@ PurByte is an emerging provider, committed to delivering excellence and innovati
 ---
 
 ### **Our Services**  
-We offer a range of hosting services designed to meet the diverse needs of our clients:  
+We offer a range of hosting services designed to meet the diverse needs of our clients:
 
-- **Web Hosting**: Fast and secure hosting for your websites.  
-- **VPS Hosting**: For growing websites that need more resources, our Virtual Private Server (VPS) hosting offers scalable solutions with dedicated resources and greater control.  
+- **Web Hosting**: Fast and secure hosting for your websites.
+- **VPS Hosting**: For growing websites that need more resources, our Virtual Private Server (VPS) hosting offers scalable solutions with dedicated resources and greater control.
 - **Game Server Hosting**: Optimized for online gaming, our game server hosting ensures low-latency, high-performance gaming environments for you and your community.  
-- **Cloud Hosting**: Scalable solutions for your growing business needs.  
-- **Domain Registration**: Simplify your online presence with domain services.  
-- **Custom Solutions**: Tailored hosting plans for unique requirements.  
+- **Cloud Hosting**: Scalable solutions for your growing business needs.
+- **Domain Registration**: Simplify your online presence with domain services.
+- **Custom Solutions**: Tailored hosting plans for unique requirements. 
 
 ---
 
@@ -46,11 +46,13 @@ We offer a range of hosting services designed to meet the diverse needs of our c
 ### **Our Commitment**  
 At PurByte, we are dedicated to growing and evolving with our clients. We continuously invest in the latest technology and infrastructure to ensure that you receive the best possible experience. Our current goal is to become a leading provider in the hosting industry, and we are committed to working tirelessly to achieve that aspiration.
 
----
+------
 
 ### **Community**
 You could paticipate on our community by joining our discord!
+
 ---
+
 [![Join us on Discord](https://img.shields.io/discord/1076152760719900732?style=for-the-badge&logo=Discord&label=Join%20us%20on%20Discord&color=A020F0
 )](https://discord.gg/PvyRJzN5Pr)
 
