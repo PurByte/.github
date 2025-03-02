@@ -42,7 +42,7 @@ We offer a range of hosting services designed to meet the diverse needs of our c
 ---
 
 ### ⭐**Our Commitment**  
-At PurByte, we are dedicated to growing and evolving with our clients. We continuously invest in the latest technology and infrastructure to ensure that you receive the best possible experience. Our current goal is to become a leading provider in the hosting industry, and we are committed to working tirelessly to achieve that aspiration.
+At PurByte, we are dedicated to growing and evolving with our clients. We continuously invest in the latest technology and infrastructure to ensure that you receive the best possible experience.
 
 ------
 
