@@ -9,7 +9,7 @@ Your trust in us is important, and we are __dedicated__ to making your journey w
 ---
 
 ## 🌐 Website  
-Explore our services at **[purbyte.com](https://purbyte.com)**
+Explore our services at **[purbyte.com](https://purbyte.com)** [Archived]
 
 ---
 
@@ -47,11 +47,11 @@ At PurByte, we are dedicated to growing and evolving with our clients. We contin
 ------
 
 ### 💬**Community**
-You could participate in our community by joining our discord!
+You could participate in our community by joining our discord! [Archived]
 
 ---
 
 [![Join us on Discord](https://img.shields.io/discord/1076152760719900732?style=for-the-badge&logo=Discord&label=Join%20us%20on%20Discord&color=A020F0
-)](https://discord.gg/ZEW4WUAM7w)
+)]('Link')
 
 ### We're here to empower your online journey.
